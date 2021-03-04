@@ -1,5 +1,3 @@
-# Analyzing US Economic Data and Building a Dashboard
-
 <h1>Analyzing US Economic Data and  Building a Dashboard  </h1>
 <h2>Description</h2>
 
